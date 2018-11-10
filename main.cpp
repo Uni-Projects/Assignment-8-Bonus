@@ -1,4 +1,4 @@
-//THIS IS A TEST: CAN YOU READ ME?
+//THIS IS A TEST: CAN YOU READ ME? TEST NUMBER TWO
 //Assignment 8 Bonus
 //Paolo Scattolin s1023775
 //Johan Urban s1024726
