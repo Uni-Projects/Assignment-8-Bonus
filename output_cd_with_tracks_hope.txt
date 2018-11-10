@@ -1,0 +1,12 @@
+> cd? hope
+artist: After forever album (year): Decipher - The Album (2012)
+artist: After forever album (year): Decipher - The Sessions (2012)
+artist: Anathema album (year): Judgement (1999)
+artist: Ayreon album (year): Into the electric castle - a space opera (1998)
+artist: Blaudzun album (year): Promises of no man's land (2014)
+artist: Classic Rock album (year): Tee Pee label sampler (2011)
+artist: Nightwish album (year): Century child (2002)
+artist: Oasis album (year): Be here now (1997)
+artist: Peter Gabriel album (year): Passion (Music for The Last Temptation Of Christ: a film by Martin Scorsese) (1989)
+artist: Yes album (year): Union (1991)
+Number of found artists: 10

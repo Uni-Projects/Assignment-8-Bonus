@@ -1,0 +1,22 @@
+> runningtime ast
+artist: Ayreon album: Into the electric castle - a space opera
+Running time album: 104:35
+artist: Bill Bruford album: Master strokes (1978-1985)
+Running time album: 64:06
+artist: Dead can dance album: Anastasis
+Running time album: 56:23
+artist: Doves album: The last broadcast
+Running time album: 53:55
+artist: Dream Theater album: The astonishing
+Running time album: 130:25
+artist: Iron maiden album: The number of the beast
+Running time album: 41:49
+artist: Kula shaker album: Peasants, pigs & astronauts
+Running time album: 54:13
+artist: Peter Gabriel album: Passion (Music for The Last Temptation Of Christ: a film by Martin Scorsese)
+Running time album: 68:21
+artist: Symphony X album: Iconoclast [special edition]
+Running time album: 82:43
+artist: Wende album: Last resistance
+Running time album: 43:22
+Number of found artists: 10
