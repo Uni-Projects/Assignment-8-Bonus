@@ -377,7 +377,7 @@ int track_in_cd (vector<Track>& tracks, string track)
 {
    	// Precondition:
 	assert(track.length() >= 0);
-	// Postcondition:
+	// Postcondition: the function finds all the tracks containing the string track in their title.
 
     int counter = 0;
     string last_cd = "";
@@ -411,7 +411,7 @@ int cd_artist (vector<Track>& tracks, string cd)
 {
     // Precondition:
 	assert(cd.length() >= 0);
-	// Postcondition:
+	// Postcondition: the function finds all the CDs containing the string cd in their title.
 
     int counter = 0;
     string last_cd = "";
@@ -501,7 +501,7 @@ void time (vector<Track>& tracks )
     }
 
     //the next part is just a calculations of weeks days hours minutes and seconds and printing all that stuff,
-    // there's probably a clever way to do this but I can't think of anything right now.
+    // there's probably a better way to do this but I can't think of anything right now.
 
     int weeks = tot_time.minutes / 10080;
     int days = (tot_time.minutes % 10080) / 1440;
